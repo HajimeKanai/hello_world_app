@@ -1,24 +1,10 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+人生逆転サロン
 
-Things you may want to cover:
+共同開発課題　１
 
-* Ruby version
+Model, View, Controllerの理解
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+実際の現場では rails g controller　コマンドを使うことはほぼない。
+理由：使うことの無い不要なファイルまでできてしまい、無駄になるから。
