@@ -1,6 +1,6 @@
 # README
 
-人生逆転サロン 共同開発課題１
+人生逆転サロン 共同開発課題１ 「Hello World」を表示したアプリ
 
 * Model, View, Controllerの理解
 
